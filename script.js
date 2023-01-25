@@ -1,0 +1,1 @@
+window.alert('Ovo je sajt vremenske prognoze!!');
